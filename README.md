@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Chetan Pathade</h1>
-<h3 align="left">A passionate security enthusiast, specialised in Penetration Testing like API PT, Web Application PT, Mobile Application PT, Thick-Client PT, and Cloud Security. Also devoting myself to OT security.</h3>
+<h3 align="left">A passionate product security engineer, specialised in Penetration Testing like API PT, Web Application PT, Mobile Application PT, Thick-Client PT, and Cloud Security. Also devoting myself to OT security.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetanpathade&label=Profile%20views&color=0e75b6&style=flat" alt="chetanpathade" /> </p>
 
