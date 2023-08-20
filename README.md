@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Cricket, Travelling and Bug Hunting.**
 
-- 📫 How to reach me **cup@andrew.cmu.edu**
+- 📫 How to reach me **cup@andrew.cmu.edu**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
