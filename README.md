@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Cryptography and Data Security.**
 
-- 👯 I’m looking to collaborate on **Website Penetration Testing Projects, Bug Bounty Hunting & Operational Technology(OT) Security**
+- 👯 I’m looking to collaborate on **Penetration Testing Projects, Bug Bounty Hunting & Operational Technology(OT) Security**
 
 - 💬 Ask me about **Cricket, Travelling and Bug Hunting.**
 
