@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetanpathade&label=Profile%20views&color=0e75b6&style=flat" alt="chetanpathade" /> </p>
 
+- Currently studying at **<a href ="https://www.cmu.edu/">Carnegie Mellon University (CMU)</a**
+
 - 🌱 I’m currently learning **Cryptography and Data Security.**
 
 - 👯 I’m looking to collaborate on **Operational Technology(OT) Security**
