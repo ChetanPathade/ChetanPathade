@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **cup@andrew.cmu.edu**.
 
-- 🏅 **<a href ="https://drive.google.com/file/d/1E5mlQyjylLvUbJbtWX0AS4p7KhsGiEGs/view">Bug Bounty (Hall Of Fames)</a>**
+- 🏅 **<a href ="https://drive.google.com/file/d/1E5mlQyjylLvUbJbtWX0AS4p7KhsGiEGs/view">Bug Bounty (Hall Of Fames)</a>**.
 
 - ⚡ Eat :arrows_counterclockwise: Sleep :arrows_counterclockwise: Hack :arrows_counterclockwise: Repeat 
 
