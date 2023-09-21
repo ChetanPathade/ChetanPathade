@@ -5,7 +5,7 @@
 
 - Currently studying at **<a href ="https://www.cmu.edu/">Carnegie Mellon University (CMU)</a>**
 
-- 🌱 I’m currently learning **Cryptography and Data Security.**
+- 🌱 I’m currently learning **Privacy, Policy, Law and Technology.**
 
 - 👯 I’m looking to collaborate on **Penetration Testing Projects, Bug Bounty Hunting & Operational Technology(OT) Security**
 
