@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Chetan Pathade</h1>
-<h3 align="left">A passionate product security engineer, specialised in Penetration Testing like API, Web Application, Mobile Application, Thick-Client, and Cloud Security. Also learning about OT security.</h3>
+<h3 align="left">A passionate product security engineer, specialised in Penetration Testing like API, Web Application, Mobile Application, Thick-Client, and Cloud Security.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetanpathade&label=Profile%20views&color=0e75b6&style=flat" alt="chetanpathade" /> </p>
 
@@ -14,6 +14,11 @@
 - 📫 How to reach me **cup@andrew.cmu.edu**.
 
 - 🏅 **<a href ="https://drive.google.com/file/d/1E5mlQyjylLvUbJbtWX0AS4p7KhsGiEGs/view">Bug Bounty (Hall Of Fames)</a>**.
+
+- Research Publications:
+  1. **<a href ="https://www.researchgate.net/profile/Chetan-Pathade/publication/372159673_Cyber_Threats_Prediction_Using_Machine_Learning/links/64adfc46b9ed6874a512e5f4/Cyber-Threats-Prediction-Using-Machine-Learning.pdf">Cyber Threats Prediction Using Machine Learning</a>**. International Research Journal of Engineering and Technology (IRJET), ISSN:2395-0056, Volume-8 Issue-12
+  2.  **<a href ="https://www.ijitee.org/wp-content/uploads/papers/v9i4/D1717029420.pdf">Machine Learning Based Malware Detection: ABoosting Methodology</a>**. International Journal of Innovative Technology and Exploring
+Engineering (IJITEE), ISSN: 2278-3075, Volume-9 Issue-4
 
 - ⚡ Eat :arrows_counterclockwise: Sleep :arrows_counterclockwise: Hack :arrows_counterclockwise: Repeat 
 
