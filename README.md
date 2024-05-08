@@ -15,7 +15,7 @@
 
 - 🏅 **<a href ="https://drive.google.com/file/d/1E5mlQyjylLvUbJbtWX0AS4p7KhsGiEGs/view">Bug Bounty (Hall Of Fames)</a>**.
 
-- ![image](https://github.com/ChetanPathade/ChetanPathade/assets/39673251/e47e6c77-ba61-43f7-9d74-213d729273db) 
+- **<a href ="https://drive.google.com/file/d/1tiYXmIbUUZpR3-BmbcWIiisVkVgWrQHW/view?usp=sharing">Recommendation Letter</a>**
 
 
 - Research Publications:
