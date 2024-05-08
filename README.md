@@ -15,6 +15,9 @@
 
 - 🏅 **<a href ="https://drive.google.com/file/d/1E5mlQyjylLvUbJbtWX0AS4p7KhsGiEGs/view">Bug Bounty (Hall Of Fames)</a>**.
 
+- ![image](https://github.com/ChetanPathade/ChetanPathade/assets/39673251/e47e6c77-ba61-43f7-9d74-213d729273db) 
+
+
 - Research Publications:
 1. **<a href ="https://www.irjet.net/archives/V11/i4/IRJET-V11I4401.pdf">Extension Auditing: Privacy-Preserving Extension</a>**. International Research Journal of Engineering and Technology (IRJET), ISSN:2395-0056, Volume-11 Issue-4
 2. **<a href ="https://www.irjet.net/archives/V8/i12/IRJET-V8I12210.pdf">Cyber Threats Prediction Using Machine Learning</a>**. International Research Journal of Engineering and Technology (IRJET), ISSN:2395-0056, Volume-8 Issue-12
