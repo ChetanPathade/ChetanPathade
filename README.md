@@ -16,10 +16,9 @@
 - 🏅 **<a href ="https://drive.google.com/file/d/1E5mlQyjylLvUbJbtWX0AS4p7KhsGiEGs/view">Bug Bounty (Hall Of Fames)</a>**.
 
 - Research Publications:
-  1.**<a href ="https://www.irjet.net/archives/V11/i4/IRJET-V11I4401.pdf">Extension Auditing: Privacy-Preserving Extension</a>**. International Research Journal of Engineering and Technology (IRJET), ISSN:2395-0056, Volume-11 Issue-4
-  2. **<a href ="https://www.irjet.net/archives/V8/i12/IRJET-V8I12210.pdf">Cyber Threats Prediction Using Machine Learning</a>**. International Research Journal of Engineering and Technology (IRJET), ISSN:2395-0056, Volume-8 Issue-12
-  3.  **<a href ="https://www.ijitee.org/wp-content/uploads/papers/v9i4/D1717029420.pdf">Machine Learning Based Malware Detection: ABoosting Methodology</a>**. International Journal of Innovative Technology and Exploring
-Engineering (IJITEE), ISSN: 2278-3075, Volume-9 Issue-4
+1. **<a href ="https://www.irjet.net/archives/V11/i4/IRJET-V11I4401.pdf">Extension Auditing: Privacy-Preserving Extension</a>**. International Research Journal of Engineering and Technology (IRJET), ISSN:2395-0056, Volume-11 Issue-4
+2. **<a href ="https://www.irjet.net/archives/V8/i12/IRJET-V8I12210.pdf">Cyber Threats Prediction Using Machine Learning</a>**. International Research Journal of Engineering and Technology (IRJET), ISSN:2395-0056, Volume-8 Issue-12
+3. **<a href ="https://www.ijitee.org/wp-content/uploads/papers/v9i4/D1717029420.pdf">Machine Learning Based Malware Detection: ABoosting Methodology</a>**. International Journal of Innovative Technology and Exploring Engineering (IJITEE), ISSN: 2278-3075, Volume-9 Issue-4
 
 - ⚡ Eat :arrows_counterclockwise: Sleep :arrows_counterclockwise: Hack :arrows_counterclockwise: Repeat 
 
