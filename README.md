@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **Ethical Hacking, Cyber Security, Pentesting, Cricket, Travelling and Bug Hunting.**
 
-- 📫 How to reach me **cup@andrew.cmu.edu**.
+- 📫 How to reach me **cup@alumni.cmu.edu**
 
-- 🏅 **<a href ="https://drive.google.com/file/d/1E5mlQyjylLvUbJbtWX0AS4p7KhsGiEGs/view">Bug Bounty (Hall Of Fames)</a>**.
+- 🏅 **<a href ="https://drive.google.com/file/d/1E5mlQyjylLvUbJbtWX0AS4p7KhsGiEGs/view">Bug Bounty (Hall Of Fames)</a>**
 
 - **<a href ="https://drive.google.com/file/d/1tiYXmIbUUZpR3-BmbcWIiisVkVgWrQHW/view?usp=sharing">Recommendation Letter</a>**
 
