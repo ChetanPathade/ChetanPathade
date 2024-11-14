@@ -5,8 +5,6 @@
 
 - **<a href ="https://www.cmu.edu/">Carnegie Mellon University (CMU)</a>** Alumni
 
-- 🌱 I’m currently learning **Browser Security**
-
 - 👯 I’m looking to collaborate on **Penetration Testing Projects, Bug Bounty Hunting & Cloud Security**
 
 - 💬 Ask me about **Ethical Hacking, Cyber Security, Pentesting, Cricket, Travelling and Bug Hunting.**
